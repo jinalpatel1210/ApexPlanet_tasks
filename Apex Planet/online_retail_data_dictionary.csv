@@ -1,0 +1,9 @@
+Column Name,Data Type,Missing Values,Unique Values,Description,Business Use
+InvoiceNo,object,0,25900,Invoice number of transaction,Track sales
+StockCode,object,0,4070,Unique product identifier,Inventory tracking
+Description,object,1454,4223,Product name,Product analytics
+Quantity,int64,0,722,Number of items purchased,Revenue calculation
+InvoiceDate,object,0,23260,Date and time of invoice,Sales trend analysis
+UnitPrice,float64,0,1630,Price per unit,Revenue analysis
+CustomerID,float64,135080,4372,Unique customer ID,Customer segmentation
+Country,object,0,38,Customer country,Market analysis
